@@ -1,4 +1,4 @@
-## Andrade Byte <img align="left" alt="Figma" width="30px" style="padding-right: 10px;" src="https://cdn2.steamgriddb.com/icon/3b6e6f6f7299c5133bd073ed1475bd65.ico"/>
+## Andrade Byte <img align="left" alt="Figma" width="20px" style="padding-right: 10px;" src="https://cdn2.steamgriddb.com/icon/3b6e6f6f7299c5133bd073ed1475bd65.ico"/>
 
 ⚡I'm a **Computer Science student** passionate about technology and software development.
 <br>
