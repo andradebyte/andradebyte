@@ -7,7 +7,6 @@
 🛠 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"/>
-<img align="left" alt="Typescript" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/>
 <img align="left" alt="Javascript" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
 <img align="left" alt="Python" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 <img align="left" alt="Java" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"/>
