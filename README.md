@@ -17,8 +17,8 @@
 🛠 Cloud Technologies and Artificial Intelligence
 
 <img align="left" alt="AWS" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"/>
-<img align="left" alt="HuaweiCloud" width="40px" style="padding-right: 30px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Huawei_Standard_logo.svg/1200px-Huawei_Standard_logo.svg.png"/>
+<img align="left" alt="AWS" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"/>
 <img align="left" alt="Docker" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
 <img align="left" alt="LangChain" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"/>
-<img align="left" alt="PyTorch" width="30px" style="padding-right: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1694px-PyTorch_logo_icon.svg.png"/>
-<img align="left" alt="Scikit-Learn" width="60px" style="padding-right: 60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png"/>
+<img align="left" alt="TensorFlow" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"/>
+<img align="left" alt="PyTorch" width="50px" style="padding-right: 30px;" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png"/>
