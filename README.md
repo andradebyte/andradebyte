@@ -20,5 +20,4 @@
 <img align="left" alt="AWS" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"/>
 <img align="left" alt="Docker" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"/>
 <img align="left" alt="LangChain" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"/>
-<img align="left" alt="TensorFlow" width="40px" style="padding-right: 30px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"/>
 <img align="left" alt="PyTorch" width="50px" style="padding-right: 30px;" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png"/>
